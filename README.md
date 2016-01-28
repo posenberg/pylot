@@ -1,5 +1,7 @@
 # Pylot MVC (beta)
-(Fixed Branching Conflicts with Git)
+
+(Orignally from Ketul-Patel's repo. Fixed Branching Conflicts with Git)
+
 Pylot MVC is a lightweight MVC framework built in Python leveraging flask.
 
 This framework is currently still in development. If you want to play around with it read on or clone the stable version!
@@ -15,7 +17,7 @@ sudo pip install virtualenv
 
 Clone the project
 ```
-git clone -b stable https://github.com/Ketul-Patel/Pylot.git
+git clone https://github.com/posenberg/pylot.git
 ```
 
 cd into the project and source the setup file
